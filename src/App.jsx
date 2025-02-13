@@ -1,9 +1,10 @@
+import ContactUs from "./Components/ContactUs"
 
 function App() {
 
   return (
     <>
-    <h1 className=" flex items-center justify-center">Rajan Yadav</h1>
+    <ContactUs />
     </>
   )
 }
